@@ -14,9 +14,9 @@ console.log("C is: " + C);
 
 // 3
 let hours = 100;
-let min = 3600;
-let mins = hours * min;
-console.log(mins);
+let sec = 3600;
+let sec1 = hours * sec;
+console.log(hours + "hours =" + sec1 + " second");
 
 //4
 let thingOne = 167;
