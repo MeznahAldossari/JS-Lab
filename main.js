@@ -98,9 +98,9 @@ if (checkBalance && isActive && balance < 5) {
 }
 
 //5
-let flavor = true;
-let vessel = true;
-let toppings = true;
+let flavor = "vanilla";
+let vessel = "bowl";
+let toppings = "sprinkles";
 
 if (
   flavor == "vanilla" ||
